@@ -1,7 +1,7 @@
 <template>
   <div>
     <section>
-      <header>Живите где угодно</header>
+      <header>Listings</header>
 
       <ul class="img-cards">
         <li v-for="card in imageCards" :key="card.title">
